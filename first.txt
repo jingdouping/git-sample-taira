@@ -8,3 +8,5 @@ INSERT INTO items(id, category_id, name, price)  VALUES
   ,(14, 2, '羊', 650);
   ,(14, 2, '羊', 650);
 
+
+平
