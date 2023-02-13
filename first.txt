@@ -10,3 +10,5 @@ INSERT INTO items(id, category_id, name, price)  VALUES
 
 
 平
+
+リモートで繋げて,mainにてfirst.txt編集
